@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Blog
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) , use Redux (https://redux.js.org/) and React Router Dom (https://reactrouter.com/web/guides/quick-start). This project use jsonplaceholder API (https://jsonplaceholder.typicode.com/).
+
 
 ## Available Scripts
 
